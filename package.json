@@ -1,6 +1,6 @@
 {
   "name": "electron-webview",
-  "productName": "Electron webview",
+  "productName": "electron-webview",
   "version": "1.0.2",
   "description": "A simple Electron webview application",
   "main": "main.js",
